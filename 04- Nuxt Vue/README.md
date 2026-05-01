@@ -1,8 +1,19 @@
-﻿# Curso de Nuxt Vue — De fundamentos de Vue a una aplicacion real
+# Curso de Nuxt Vue — De fundamentos de Vue a una aplicacion real
+
+Antes de entrar fuerte aqui, estudia estos cursos base:
+
+1. HTML: <https://github.com/yetsin7/Curso-de-HTML>
+2. CSS: <https://github.com/yetsin7/Curso-de-CSS>
+3. JavaScript: <https://github.com/yetsin7/Curso-de-JavaScript>
 
 Este curso ya no es una introduccion corta. Ahora esta planteado como una ruta
 larga de Vue + Nuxt, desde componentes y reactividad hasta rutas, estado,
 carrito, SEO, deploy y proyecto final.
+
+## Documentacion de referencia
+
+Consulta [Doc-Vue-Nuxt.md](./Doc-Vue-Nuxt.md) para ver la documentacion oficial
+y la ruta recomendada de aprendizaje.
 
 ## Modulos del curso
 

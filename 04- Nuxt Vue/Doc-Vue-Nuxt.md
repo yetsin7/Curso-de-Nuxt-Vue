@@ -4,6 +4,16 @@ Vue.js es un framework progresivo para crear interfaces. Nuxt.js usa Vue para
 construir aplicaciones modernas con rutas, SSR, SSG y una estructura mas
 completa.
 
+## Que deberias estudiar antes
+
+Para entender mejor este framework, primero conviene dominar:
+
+1. HTML: <https://github.com/yetsin7/Curso-de-HTML>
+2. CSS: <https://github.com/yetsin7/Curso-de-CSS>
+3. JavaScript: <https://github.com/yetsin7/Curso-de-JavaScript>
+
+Si descargaste solo este repo, esos tres cursos te dan la base que Nuxt asume.
+
 ## Documentacion recomendada
 
 - [Vue official docs](https://vuejs.org/guide/introduction.html)

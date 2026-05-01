@@ -1,47 +1,32 @@
-﻿# Curso de Nuxt Vue — Ruta completa desde cero hasta aplicaciones web modernas
+# Curso-de-Nuxt-Vue
 
-Este repositorio no es un conjunto de apuntes sueltos. Es una ruta de estudio
-organizada para llevarte desde la base del desarrollo web hasta la construccion
-real de aplicaciones con Vue y Nuxt.
+Repositorio oficial: <https://github.com/yetsin7/Curso-de-Nuxt-Vue>
 
-La ruta esta dividida en cuatro cursos grandes, cada uno capaz de estudiarse por
-si solo, pero ordenados para construir una sola progresion fuerte:
+Este repositorio queda dedicado al framework. Aqui el foco es aprender Vue y
+Nuxt mejor, no volver a mezclar dentro del mismo repo los cursos base de HTML,
+CSS y JavaScript.
 
-1. `01- HTML`
-2. `02- CSS`
-3. `03- Java Script`
-4. `04- Nuxt Vue`
+## Antes de estudiar este repo
+
+Para sacarle provecho real a Nuxt Vue, primero deberias estudiar:
+
+1. HTML: <https://github.com/yetsin7/Curso-de-HTML>
+2. CSS: <https://github.com/yetsin7/Curso-de-CSS>
+3. JavaScript: <https://github.com/yetsin7/Curso-de-JavaScript>
+
+Si descargaste solo este repo, puedes clonar esos cursos por separado y luego
+volver aqui con una base mucho mas fuerte.
 
 ## Documentacion de referencia
 
-- [HTML](./01-%20HTML/Doc-HTML.md)
-- [CSS](./02-%20CSS/Doc-CSS.md)
-- [JavaScript](./03-%20Java%20Script/Doc-JavaScript.md)
-- [Vue y Nuxt](./04-%20Nuxt%20Vue/Doc-Vue-Nuxt.md)
+- [Guia de Vue y Nuxt](./04-%20Nuxt%20Vue/Doc-Vue-Nuxt.md)
+- [Curso principal dentro del repo](./04-%20Nuxt%20Vue/README.md)
 
-## Filosofia de esta ruta
+## Filosofia
 
-La idea central de este repositorio es simple:
+La idea central de este repo ahora es simple:
 
-- primero entender la estructura de la web;
-- despues aprender a presentarla bien;
-- luego dominar la logica e interaccion;
-- finalmente organizar todo eso dentro de una arquitectura moderna.
-
-## Como estudiar bien este repositorio
-
-1. Lee el `README.md` del curso.
-2. Abre el modulo correspondiente.
-3. Revisa los ejemplos.
-4. Ejecuta lo necesario.
-5. Haz ejercicios sin copiar al primer intento.
-6. No avances hasta poder explicar lo que aprendiste.
-
-## Objetivo final
-
-Al final deberias poder:
-
-- crear paginas con HTML;
-- darles estilo con CSS;
-- agregar comportamiento con JavaScript;
-- construir aplicaciones reales con Vue y Nuxt.
+- no mezclar lenguaje base con framework;
+- dejar claros los prerequisitos;
+- estudiar Vue y Nuxt con mejor contexto tecnico;
+- llevar al usuario desde componentes hasta apps reales.
