@@ -20,6 +20,21 @@ Para entender mejor este framework, primero conviene dominar:
 
 Si descargaste solo este repo, esos tres cursos te dan la base que Nuxt asume.
 
+## Orden de estudio previo recomendado
+
+Si tu meta es aprender Nuxt Vue sin sentirte perdido, el orden mas sano es este:
+
+1. HTML:
+   para entender la estructura de una pagina y sus secciones.
+2. CSS:
+   para manejar estilos, layout y responsive design.
+3. JavaScript:
+   para dominar logica, funciones, objetos, asincronia, DOM y modulos.
+4. Vue:
+   para aprender componentes, reactividad, props y eventos.
+5. Nuxt:
+   para pasar a rutas, SSR, SSG, estructura de app y despliegue.
+
 ## Documentacion recomendada
 
 - [Vue official docs](https://vuejs.org/guide/introduction.html)
