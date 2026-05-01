@@ -1,35 +1,11 @@
-# Modulo 04 — Flexbox
+﻿# Modulo 04 — Flexbox
 
-## Objetivo
+Flexbox te ayuda a alinear y distribuir elementos en una dimension.
 
-Aprender a alinear y distribuir elementos en una dimension con control real.
+## Archivos del modulo
 
-## Conceptos
-
-- `display: flex`;
-- `flex-direction`;
-- `justify-content`;
-- `align-items`;
-- `gap`.
-
-## Casos reales
-
-Flexbox es ideal para:
-
-- headers;
-- menus;
-- grupos de botones;
-- barras de herramientas;
-- tarjetas en fila.
-
-## Ejercicio
-
-1. Crea un header con logo y menu.
-2. Crea una fila de tarjetas.
-3. Alinea un grupo de botones.
-
-## Debes dominar antes de avanzar
-
-- saber en que casos usar flexbox;
-- alinear elementos sin pelearte con el layout.
-
+- `01_flex_direccion.html`
+- `02_justify_y_align.html`
+- `03_navbar_flex.html`
+- `04_cards_flex.html`
+- `05_ejercicios.html`

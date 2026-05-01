@@ -1,12 +1,10 @@
-# Curso de Java Script — Enfocado a web y a la ruta hacia Nuxt Vue
+﻿# Curso de Java Script — De cero a una base fuerte para frontend y Nuxt Vue
 
-Este curso ya no apunta a React, Express, TypeScript ni backend extra.
-Aqui JavaScript existe para ayudarte a dominar la logica que necesitas antes de
-entrar a Vue y Nuxt.
+Este curso esta enfocado en JavaScript como lenguaje para la web. Su trabajo
+principal dentro de esta ruta es darte una base real para entender la logica del
+frontend y llegar a Vue y Nuxt sin depender de copiar soluciones ajenas.
 
----
-
-## Ruta recomendada dentro de esta carpeta
+## Ruta recomendada de estudio
 
 1. `01-fundamentos`
 2. `02-tipos-de-datos`
@@ -15,45 +13,31 @@ entrar a Vue y Nuxt.
 5. `05-funciones`
 6. `06-arrays`
 7. `07-objetos`
-8. `08-poo` como complemento, no como prioridad
-9. `09-manejo-de-errores`
-10. `10-async-js`
-11. `12-modulos`
-12. `14-http-y-fetch`
-13. `15-dom`
-14. `17-npm-y-herramientas`
-15. `11-proyecto-final-basico`
+8. `09-manejo-de-errores`
+9. `10-async-js`
+10. `12-modulos`
+11. `14-http-y-fetch`
+12. `15-dom`
+13. `17-npm-y-herramientas`
+14. `11-proyecto-final-basico`
+15. `08-poo` como complemento.
 
----
+## Que aprenderas
 
-## Que se elimino a proposito
+- variables y scope;
+- tipos de datos;
+- operadores;
+- estructuras de control;
+- funciones;
+- arrays y objetos;
+- manejo de errores;
+- asincronia;
+- modulos;
+- peticiones HTTP con `fetch`;
+- DOM y eventos.
 
-Se quitaron de esta copia local:
+## Lo que se removio a proposito
 
-- Node filesystem;
-- Express;
-- proyectos de Biblia;
-- TypeScript;
-- React;
-- bases de datos con Node;
-- testing;
-- performance avanzado;
-- proyecto final Node;
-- app web ajena a esta ruta.
-
-La razon es simple: este repositorio debe servir a la ruta HTML -> CSS ->
-JavaScript -> Nuxt Vue, no dispersarse.
-
----
-
-## Resultado esperado
-
-Al terminar deberias poder:
-
-- entender variables, condiciones y funciones;
-- trabajar con arrays y objetos;
-- manipular el DOM;
-- reaccionar a eventos;
-- consumir APIs con `fetch`;
-- preparar tu cabeza para componentes, estado y reactividad en Vue.
-
+En esta copia del curso ya no aparecen temas desviados como Express, TypeScript,
+React y backend extra. La razon es simple: esta ruta esta construida para llegar
+bien a Nuxt Vue.

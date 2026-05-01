@@ -1,38 +1,9 @@
-# Modulo 03 — Componentes, props y eventos
+﻿# Modulo 03 — Componentes, props y eventos
 
-## Objetivo
+## Archivos del modulo
 
-Aprender a construir interfaces por piezas reutilizables.
-
-## Conceptos
-
-- componentes padre e hijo;
-- props;
-- eventos;
-- `v-model`;
-- listas y condiciones.
-
-## Casos reales
-
-Necesitaras esto para:
-
-- tarjetas de producto;
-- formularios de login;
-- filtros;
-- modales;
-- menus.
-
-## Ejercicio
-
-Crea una `ProductCard` que reciba:
-
-- nombre;
-- precio;
-- imagen;
-- boton de accion.
-
-## Debes dominar antes de avanzar
-
-- pasar datos correctamente;
-- responder a acciones del usuario desde componentes.
-
+- `01_ProductCard.vue`
+- `02_props_padre_hijo.vue`
+- `03_emits_carrito.vue`
+- `04_slots_basicos.vue`
+- `05_ejercicios.md`

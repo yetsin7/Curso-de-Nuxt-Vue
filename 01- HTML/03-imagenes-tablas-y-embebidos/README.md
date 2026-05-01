@@ -1,44 +1,13 @@
-# Modulo 03 — Imagenes, tablas y embebidos
+﻿# Modulo 03 — Imagenes, tablas y embebidos
 
-## Objetivo
+Este modulo te enseña a usar recursos visuales y tablas con criterio, no solo
+porque existen las etiquetas.
 
-Aprender a insertar recursos visuales y contenido estructurado que una pagina
-real suele necesitar.
+## Archivos del modulo
 
-## Conceptos
-
-- `img`;
-- atributo `alt`;
-- tablas basicas;
-- contenido incrustado;
-- buenas practicas al mostrar informacion.
-
-## Imagenes
-
-Una imagen no debe existir solo por adornar.
-Debe aportar contexto, mostrar un producto o apoyar una explicacion.
-
-El atributo `alt` es importante porque describe la imagen cuando eso aporta
-valor.
-
-## Tablas
-
-No uses tablas para maquetar la pagina.
-Usalas solo cuando realmente estes mostrando datos tabulares:
-
-- precios;
-- comparaciones;
-- horarios;
-- inventario.
-
-## Ejercicio
-
-1. Agrega una imagen a una pagina de producto.
-2. Escribe un `alt` claro.
-3. Crea una tabla sencilla con nombre, precio y categoria.
-
-## Debes dominar antes de avanzar
-
-- insertar imagenes con sentido;
-- usar tablas solo cuando de verdad corresponden.
-
+- `01_imagenes_y_alt.html`
+- `02_rutas_y_recursos.html`
+- `03_tablas_basicas.html`
+- `04_iframe_y_video.html`
+- `05_catalogo_simple.html`
+- `06_ejercicios.html`

@@ -1,38 +1,9 @@
-# Modulo 05 — Estado con Pinia y composables
+﻿# Modulo 05 — Estado con Pinia y composables
 
-## Objetivo
+## Archivos del modulo
 
-Aprender a manejar estado compartido sin volver el proyecto desordenado.
-
-## Conceptos
-
-- Pinia;
-- store;
-- estado global;
-- getters;
-- acciones;
-- composables.
-
-## Casos reales
-
-Necesitaras estado para:
-
-- carrito;
-- usuario autenticado;
-- preferencias de interfaz;
-- filtros compartidos.
-
-## Ejercicio
-
-Piensa y diseña un store de carrito con:
-
-- items;
-- subtotal;
-- total;
-- acciones para agregar y quitar.
-
-## Debes dominar antes de avanzar
-
-- distinguir estado local de estado global;
-- entender que no todo debe ir a Pinia.
-
+- `01_store_carrito.ts`
+- `02_useCurrency.ts`
+- `03_componente_carrito.vue`
+- `04_store_usuario.ts`
+- `05_ejercicios.md`

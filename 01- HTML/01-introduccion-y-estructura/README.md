@@ -1,45 +1,17 @@
-# Modulo 01 — Introduccion y estructura
+﻿# Modulo 01 — Introduccion y estructura
 
-## Objetivo
+En este modulo no vamos a decorar nada. Vamos a entender como empieza una pagina
+HTML desde cero, como la lee el navegador y como se arma una estructura limpia.
 
-Entender que es HTML, como lo interpreta el navegador y como se construye un
-documento bien formado desde cero.
+## Archivos del modulo
 
-## Conceptos
+- `01_documento_minimo.html`
+- `02_head_y_metadatos.html`
+- `03_body_y_estructura.html`
+- `04_errores_comunes.html`
+- `05_ejercicios.html`
 
-- `<!doctype html>`;
-- `html`, `head`, `body`;
-- `title`;
-- `meta charset`;
-- `meta viewport`;
-- primer `h1`.
+## Meta del modulo
 
-## Explicacion simple
-
-HTML no programa comportamiento. HTML define estructura.
-
-Piensalo asi:
-
-- HTML dice que existe un titulo;
-- CSS decide como se ve;
-- JavaScript decide como se comporta.
-
-## Ejercicio
-
-1. Crea un archivo `mi-primera-pagina.html`.
-2. Escribe la estructura minima completa.
-3. Agrega un titulo principal.
-4. Agrega un parrafo que explique quien eres o que quieres aprender.
-
-## Errores comunes
-
-- olvidar el `doctype`;
-- poner contenido visible dentro de `head`;
-- no usar `lang="es"`;
-- abrir etiquetas y no cerrarlas.
-
-## Debes dominar antes de avanzar
-
-- escribir un documento HTML completo sin mirar plantilla;
-- explicar para que sirven `head` y `body`.
-
+Al terminar deberias poder abrir un archivo vacio y escribir un documento HTML
+completo sin copiar una plantilla.

@@ -1,35 +1,9 @@
-# Modulo 01 — Fundamentos de Vue
+﻿# Modulo 01 — Fundamentos de Vue
 
-## Objetivo
+## Archivos del modulo
 
-Entender que problema resuelve Vue y por que no reemplaza HTML, CSS y
-JavaScript, sino que los organiza mejor.
-
-## Conceptos
-
-- que es un componente;
-- plantilla;
-- script;
-- estilo;
-- declaratividad;
-- datos en la vista.
-
-## Explicacion simple
-
-Con JavaScript puro puedes manipular el DOM.
-Con Vue describes la interfaz de una forma mas mantenible.
-
-## Ejercicio
-
-Construye un componente sencillo que muestre:
-
-- titulo;
-- descripcion;
-- precio;
-- boton.
-
-## Debes dominar antes de avanzar
-
-- entender que Vue se apoya en JavaScript;
-- entender que una interfaz puede dividirse en componentes.
-
+- `01_primer_componente.vue`
+- `02_interpolacion_y_directivas.vue`
+- `03_eventos_basicos.vue`
+- `04_formulario_simple.vue`
+- `05_ejercicios.md`

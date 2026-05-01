@@ -1,36 +1,12 @@
-# Modulo 02 — Box model y espaciado
+﻿# Modulo 02 — Box model y espaciado
 
-## Objetivo
+Este modulo te enseña a entender por que los elementos ocupan el espacio que
+ocupan.
 
-Entender por que los elementos ocupan espacio y como controlar ese espacio con
-intencion.
+## Archivos del modulo
 
-## Conceptos
-
-- ancho y alto;
-- `padding`;
-- `border`;
-- `margin`;
-- `box-sizing`.
-
-## Idea central
-
-Todo elemento es una caja.
-Si no entiendes eso, CSS se siente aleatorio.
-
-## Ejercicio
-
-Toma una tarjeta HTML y cambia:
-
-- padding;
-- borde;
-- margen;
-- ancho.
-
-Despues explica que cambio visualmente.
-
-## Debes dominar antes de avanzar
-
-- distinguir entre padding y margin;
-- ajustar espacio sin adivinar.
-
+- `01_box_model.html`
+- `02_margin_y_padding.html`
+- `03_border_y_box_sizing.html`
+- `04_tarjeta_con_espaciado.html`
+- `05_ejercicios.html`

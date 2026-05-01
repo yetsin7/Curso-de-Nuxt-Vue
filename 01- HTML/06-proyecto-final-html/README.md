@@ -1,28 +1,12 @@
-# Modulo 06 — Proyecto final HTML
+﻿# Modulo 06 — Proyecto final HTML
 
-## Objetivo
+Este modulo junta todo lo anterior. Vas a construir estructuras completas de
+landing, producto y checkout solo con HTML.
 
-Construir una pagina completa de producto o landing page usando solo HTML.
+## Archivos del modulo
 
-## Debe incluir
-
-- cabecera;
-- hero;
-- beneficios;
-- prueba social;
-- seccion FAQ;
-- formulario o CTA;
-- footer.
-
-## Lo que se evalua
-
-- estructura;
-- jerarquia;
-- semantica;
-- claridad comercial;
-- orden del documento.
-
-## Resultado
-
-Si terminas este proyecto bien, ya tienes una base real para pasar a CSS.
-
+- `01_home_tienda_base.html`
+- `02_producto_base.html`
+- `03_checkout_base.html`
+- `04_checklist_final.md`
+- `05_reto_extra.md`

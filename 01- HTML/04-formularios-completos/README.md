@@ -1,49 +1,14 @@
-# Modulo 04 — Formularios completos
+﻿# Modulo 04 — Formularios completos
 
-## Objetivo
+Los formularios son de las piezas mas importantes de la web real. Aqui vas a
+practicar campos, etiquetas, botones y estructuras utiles para login, contacto
+y checkout.
 
-Aprender a construir formularios claros, usables y listos para integrarse luego
-con JavaScript o con una app Vue.
+## Archivos del modulo
 
-## Conceptos
-
-- `form`;
-- `label`;
-- `input`;
-- `textarea`;
-- `select`;
-- `button`;
-- tipos de entrada comunes.
-
-## Idea central
-
-Un formulario es una conversacion entre la app y el usuario.
-Si el formulario es confuso, la persona abandona.
-
-## Reglas practicas
-
-- cada campo debe tener una etiqueta clara;
-- no dependas solo del placeholder;
-- agrupa campos relacionados;
-- usa botones con texto entendible;
-- piensa que campos son realmente necesarios.
-
-## Ejercicio
-
-Crea:
-
-- un formulario de contacto;
-- un formulario de suscripcion;
-- un formulario de login.
-
-## Errores comunes
-
-- inputs sin `label`;
-- pedir demasiada informacion;
-- botones genericos como `Enviar` cuando podrias decir algo mejor.
-
-## Debes dominar antes de avanzar
-
-- crear formularios completos sin copiar;
-- entender que informacion recoge cada campo.
-
+- `01_formulario_basico.html`
+- `02_inputs_comunes.html`
+- `03_select_textarea_checkbox.html`
+- `04_login.html`
+- `05_checkout_simple.html`
+- `06_ejercicios.html`

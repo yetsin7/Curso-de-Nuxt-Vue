@@ -1,0 +1,14 @@
+﻿<!doctype html>
+<html lang="es"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Landing final</title><style>
+:root { --bg:#fff7ed; --ink:#172033; --accent:#ea580c; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, sans-serif; background: var(--bg); color: var(--ink); }
+.wrap { width: min(1100px, calc(100% - 32px)); margin: 0 auto; }
+.hero { padding: 64px 0; }
+.cards { display: grid; gap: 16px; }
+.card { padding: 24px; background: white; border-radius: 16px; }
+button { padding: 14px 18px; border: none; border-radius: 12px; background: var(--accent); color: white; }
+@media (min-width: 900px) { .cards { grid-template-columns: repeat(3, 1fr); } }
+</style></head><body>
+<main class="wrap"><section class="hero"><h1>Landing final de practica</h1><p>Ejemplo de pagina ya vestida con CSS.</p><button>Comprar ahora</button></section><section class="cards"><article class="card">Modulo 1</article><article class="card">Modulo 2</article><article class="card">Modulo 3</article></section></main>
+</body></html>

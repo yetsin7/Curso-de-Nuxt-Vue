@@ -1,35 +1,11 @@
-# Modulo 01 — Introduccion y sintaxis
+﻿# Modulo 01 — Introduccion y sintaxis
 
-## Objetivo
+Aqui aprendes a escribir reglas CSS y a conectarlas con HTML correctamente.
 
-Entender que hace CSS y como se conecta con HTML.
+## Archivos del modulo
 
-## Conceptos
-
-- selector;
-- propiedad;
-- valor;
-- clases;
-- ids;
-- reglas basicas.
-
-## Explicacion simple
-
-CSS dice como se presenta lo que HTML ya definio.
-
-Ejemplo:
-
-- HTML crea una tarjeta;
-- CSS decide borde, color, espacio, tamaño y alineacion.
-
-## Ejercicio
-
-1. Cambia el color de un titulo.
-2. Cambia el fondo del `body`.
-3. Aplica una clase a una tarjeta y dale estilo.
-
-## Debes dominar antes de avanzar
-
-- escribir reglas CSS simples sin copiar;
-- entender la relacion entre HTML y CSS.
-
+- `01_sintaxis_basica.html`
+- `02_selectores_comunes.html`
+- `03_clases_e_ids.html`
+- `04_cascada_y_especificidad.html`
+- `05_ejercicios.html`

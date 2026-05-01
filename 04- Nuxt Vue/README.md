@@ -1,29 +1,8 @@
-# Curso de Nuxt Vue — De componentes a aplicacion real
+﻿# Curso de Nuxt Vue — De fundamentos de Vue a una aplicacion real
 
-Este curso es la culminacion de la ruta.
-Aqui no empezamos desde cero absoluto de programacion. Aqui construimos sobre
-HTML, CSS y JavaScript ya entendidos.
-
-La meta no es solo aprender Vue. La meta es aprender a construir aplicaciones
-reales con Nuxt usando una estructura profesional.
-
----
-
-## Que aprenderas
-
-- fundamentos de Vue 3;
-- reactividad;
-- Composition API;
-- componentes, props y eventos;
-- rutas y layouts con Nuxt;
-- estado con Pinia;
-- consumo de APIs;
-- server routes;
-- SSR y SEO;
-- despliegue;
-- proyecto final tipo tienda.
-
----
+Este curso ya no es una introduccion corta. Ahora esta planteado como una ruta
+larga de Vue + Nuxt, desde componentes y reactividad hasta rutas, estado,
+carrito, SEO, deploy y proyecto final.
 
 ## Modulos del curso
 
@@ -35,18 +14,18 @@ reales con Nuxt usando una estructura profesional.
 6. `06-fetch-apis-y-server-routes`
 7. `07-ssr-seo-y-deploy`
 8. `08-proyecto-final-tienda-nuxt`
-
----
+9. `09-autenticacion-y-rutas-protegidas`
+10. `10-formularios-y-validacion`
+11. `11-pinia-en-proyectos-reales`
+12. `12-renderizado-de-listas-y-paginacion`
+13. `13-filtros-busqueda-y-carrito`
+14. `14-seo-avanzado-y-metadatos-dinamicos`
+15. `15-deploy-y-produccion-real`
+16. `16-proyecto-admin-dashboard`
+17. `17-tienda-completa-nuxt`
+18. `18-checklist-senior-y-siguientes-pasos`
 
 ## Resultado esperado
 
-Al terminar deberias poder construir una app Nuxt bien organizada con:
-
-- paginas;
-- layouts;
-- componentes;
-- estado;
-- datos remotos;
-- SEO basico;
-- mentalidad de producto real.
-
+Al terminar deberias poder construir una aplicacion moderna con Vue y Nuxt,
+entender su estructura y seguir creciendo hacia proyectos cada vez mas serios.

@@ -1,31 +1,11 @@
-# Módulo 08 — Programación Orientada a Objetos (POO)
+﻿# Modulo 08 — POO
 
-POO en JavaScript moderno con `class`. herencia, encapsulación, propiedades
-privadas, getters/setters, mixins y composición.
+## Objetivo del modulo
 
-## Archivos
+Conocer programacion orientada a objetos como complemento cultural y tecnico,
+pero sin convertirla en el centro de la ruta.
 
-| Archivo | Tema |
-|---|---|
-| `01_clases.js` | class, constructor, métodos, this, instancias, toString |
-| `02_herencia.js` | extends, super, override, instanceof, prototype chain |
-| `03_static_y_privado.js` | static, propiedades privadas #, getters/setters |
-| `04_mixins_y_composicion.js` | Mixins, composición, Symbol, iteradores |
-| `05_ejercicios.js` | Ejercicios prácticos con jerarquía de clases |
+## Nota importante
 
-## Cómo ejecutar
-
-```bash
-node 01_clases.js
-node 02_herencia.js
-node 03_static_y_privado.js
-node 04_mixins_y_composicion.js
-node 05_ejercicios.js
-```
-
-## Conceptos clave
-
-- Las **clases en JS son azúcar sintáctico** sobre el sistema de prototipos
-- Las **propiedades privadas** (`#campo`) son una carácterística nativa de ES2022
-- Preferir **composición sobre herencia** cuando sea posible
-- `static` pertenece a la clase, no a las instancias
+Este modulo no es el mas prioritario para llegar a Vue y Nuxt. Se mantiene como
+formacion complementaria.

@@ -1,37 +1,11 @@
-# Modulo 03 — Tipografia, colores y fondos
+﻿# Modulo 03 — Tipografia, colores y fondos
 
-## Objetivo
+Aqui aprendes a dar claridad visual a una interfaz.
 
-Aprender a dar claridad visual sin convertir la pagina en un desastre.
+## Archivos del modulo
 
-## Conceptos
-
-- `font-size`;
-- `line-height`;
-- `font-weight`;
-- colores;
-- contraste;
-- fondos;
-- jerarquia visual.
-
-## Regla practica
-
-No uses muchos colores por emocion.
-Usa pocos colores con funcion:
-
-- fondo;
-- texto;
-- acento;
-- estado especial.
-
-## Ejercicio
-
-1. Crea una paleta simple de 3 o 4 colores.
-2. Mejora la legibilidad de una pagina de producto.
-3. Destaca un CTA sin exagerar.
-
-## Debes dominar antes de avanzar
-
-- crear una pagina legible;
-- usar color y tipografia con criterio.
-
+- `01_colores_y_contraste.html`
+- `02_tipografia_basica.html`
+- `03_fondos_y_jerarquia.html`
+- `04_hero_simple.html`
+- `05_ejercicios.html`

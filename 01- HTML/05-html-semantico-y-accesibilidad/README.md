@@ -1,41 +1,13 @@
-# Modulo 05 — HTML semantico y accesibilidad
+﻿# Modulo 05 — HTML semantico y accesibilidad
 
-## Objetivo
+Aqui vas a dejar de usar `div` para todo. Vas a aprender a estructurar una
+pagina como alguien que piensa en claridad, mantenimiento y accesibilidad.
 
-Aprender a escribir HTML limpio, profesional y facil de mantener.
+## Archivos del modulo
 
-## Conceptos
-
-- `header`;
-- `nav`;
-- `main`;
-- `section`;
-- `article`;
-- `aside`;
-- `footer`;
-- accesibilidad basica.
-
-## Por que importa
-
-Cuando usas HTML semantico:
-
-- el codigo se entiende mejor;
-- la pagina es mas clara para lectores de pantalla;
-- SEO parte de una mejor base;
-- tu CSS se vuelve mas ordenado.
-
-## Ejercicio
-
-Reescribe una home sencilla usando:
-
-- `header`;
-- `nav`;
-- `main`;
-- varias `section`;
-- `footer`.
-
-## Debes dominar antes de avanzar
-
-- explicar por que una parte es `article` y otra es `section`;
-- estructurar una home o landing con etiquetas semanticas.
-
+- `01_semantica_base.html`
+- `02_header_nav_main_footer.html`
+- `03_accessibilidad_basica.html`
+- `04_landing_semantica.html`
+- `05_revision_errores.html`
+- `06_ejercicios.html`

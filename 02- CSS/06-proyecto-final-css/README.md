@@ -1,24 +1,11 @@
-# Modulo 06 — Proyecto final CSS
+﻿# Modulo 06 — Proyecto final CSS
 
-## Objetivo
+En este modulo conviertes una estructura HTML real en una interfaz presentable
+para una landing o una tienda simple.
 
-Tomar la pagina HTML final del curso anterior y convertirla en una interfaz
-completa y responsiva.
+## Archivos del modulo
 
-## Debe incluir
-
-- hero claro;
-- layout consistente;
-- tarjetas de beneficios;
-- seccion de prueba social;
-- formulario o CTA;
-- footer ordenado;
-- version movil usable.
-
-## Lo que se evalua
-
-- claridad visual;
-- espaciado;
-- responsive;
-- uso correcto de flex y grid.
-
+- `01_landing_final.html`
+- `02_catalogo_final.html`
+- `03_checklist_final.md`
+- `04_reto_extra.md`
