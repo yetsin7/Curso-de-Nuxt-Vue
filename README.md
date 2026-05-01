@@ -19,7 +19,7 @@ volver aqui con una base mucho mas fuerte.
 
 ## Documentacion de referencia
 
-Consulta [Doc-Vue-Nuxt.md](./Doc-Vue-Nuxt.md) para ver la documentacion oficial
+Consulta [Documentación-Vue-Nuxt.md](./Documentación-Vue-Nuxt.md) para ver la documentacion oficial
 y la ruta recomendada de aprendizaje.
 
 ## Modulos del curso
