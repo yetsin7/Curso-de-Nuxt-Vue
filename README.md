@@ -12,6 +12,13 @@ si solo, pero ordenados para construir una sola progresion fuerte:
 3. `03- Java Script`
 4. `04- Nuxt Vue`
 
+## Documentacion de referencia
+
+- [HTML](./01-%20HTML/Doc-HTML.md)
+- [CSS](./02-%20CSS/Doc-CSS.md)
+- [JavaScript](./03-%20Java%20Script/Doc-JavaScript.md)
+- [Vue y Nuxt](./04-%20Nuxt%20Vue/Doc-Vue-Nuxt.md)
+
 ## Filosofia de esta ruta
 
 La idea central de este repositorio es simple:
